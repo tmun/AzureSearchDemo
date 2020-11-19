@@ -1,2 +1,2 @@
 # AzureSearchDemo
-AZ Search Demo
+Azure Search Demo
